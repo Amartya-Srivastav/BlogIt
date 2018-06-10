@@ -1,0 +1,2 @@
+# BlogIt
+A collection of Blogs , many users are allowed to create their own account and post their own blogs. Every user is allowed to like and comment on others blogs as well , to show their support. Use of Angular JS at its best . Fundamentals of web like HTML,BOOTSTRAP,CSS and online database ,Stamplay is efficiently done.Stamplay is a web based development platform, whose services were mostly used here.
